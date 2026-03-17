@@ -1,0 +1,15 @@
+# Binance AI Trading Bot - Gereksinimler
+# Yüklemek için: pip install -r requirements.txt
+
+# Binance API istemcisi
+python-binance>=1.0.19
+
+# Veri analizi
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP istekleri (haber toplama)
+requests>=2.31.0
+
+# Opsiyonel: OpenAI duygu analizi
+# openai>=1.0.0
